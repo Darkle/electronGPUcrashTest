@@ -29,8 +29,8 @@ module.exports = function(){
     })
 
     //webview.setAttribute('src', 'http://google.com')
-    //webview.setAttribute('src', 'chrome://gpucrash')
-    webview.setAttribute('src', 'chrome://crash')
+    webview.setAttribute('src', 'chrome://gpucrash')
+    //webview.setAttribute('src', 'chrome://crash')
     document.body.appendChild(webview)
 
   })
