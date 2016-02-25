@@ -1,0 +1,14 @@
+{
+  "name": "electrongpucrashtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node_modules/.bin/electron index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron-prebuilt": "^0.36.8"
+  }
+}
